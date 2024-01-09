@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Page</title>
+
+    <link rel="shortcut icon" href="E:\web\Asserts\logo.jpg"
+        type="image/x-icon">
+
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7COpen+Sans&display=swap" />
+
+    <!-- Libraries -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="E:\web\Asserts\css\anime.css">
+    <link rel="stylesheet" href="E:\web\Asserts\css\style.css">
+    <link rel="stylesheet" href="E:\web\Asserts\css\util.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <header>
+            <img class="logo" src="E:\web\Asserts\logo.jpg" class ="logo" width="140" alt="Logo" />
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="about">About</a></li>
+                    <li><a href="projects">Projects</a></li>
+                </ul>
+            </nav>
+            <button> <i class="fa fa-envelope-o" ></i> Contact Us</button>
+
+        </header>
+        <main class="content">
+            <div class="info">
+               <h1 class ="locale">Landing Page </h1>
+               <h2>
+                <span>There </span>
+                <span>are </span>
+                <span>no </span>
+                <span>limits </span>
+                <span>to </span>
+                <span>what </span>
+                <span>you </span>
+                <span>can </span>
+                <span>accomplish, </span>
+                <span>except </span>
+                <span>the </span>
+                <span>limits </span>
+                <span>you </span>
+                <span>place </span>
+                <span>on </span>
+                <span>your </span>
+                <span>own </span>
+                <span>thinking.</span>
+              </h2>
+               <button> <i class="fa fa-video-camera"></i> Learn more</button>
+
+               <div class="social-links">
+                <ul>
+                    <li><a href="facebook" target="_blank " class="btn-social bg-facebook">
+                        <i class="fa fa-facebook"></i> Facebook
+                    </a></li>
+                    <li><a href="fa fa-youtube " target="_blank" class="btn-social bg-youtube">
+                        <i class="fa fa-youtube"></i> Youtube
+                    </a></li>
+                    <li><a href="instagram" target="_blank" class="btn-social bg-instagram">
+                        <i class="fa fa-instagram"></i> Instagram
+                    </a></li>
+                </ul>
+               </div>
+
+            </div>
+
+            <img class="image" src="E:\web\Asserts\image2.png" alt="image">
+        </main>
+        
+
+
+</body>
+
+</html>
